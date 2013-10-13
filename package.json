@@ -1,0 +1,17 @@
+{
+  "name": "motion",
+  "version": "0.0.0",
+  "description": "Control a motion sensor and play a sound",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Pi",
+    "motion",
+    "sensor",
+    "audio"
+  ],
+  "author": "Graham Veal",
+  "license": "MIT"
+}
