@@ -13,5 +13,8 @@
     "audio"
   ],
   "author": "Graham Veal",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "onoff": "~0.2.2"
+  }
 }
