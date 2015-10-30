@@ -15,6 +15,6 @@
   "author": "Graham Veal",
   "license": "MIT",
   "dependencies": {
-    "onoff": "~0.2.2"
+    "onoff": "^1.0.3"
   }
 }
