@@ -25,12 +25,12 @@ sensor.watch( function( err, state ){
 
 		if( state === 1 ){
 
-			console.log( 'Sending request to /play/' );
+			console.log( 'Sending request to %s', config.api.path );
 
 			var req = http.request( {
 				hostname: config.api.host,
 				port: config.api.port,
-				path: '/play/'
+				path: config.api.path
 			}, function( res ){
 	
 				var data = '';
