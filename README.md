@@ -1,4 +1,4 @@
 motion
 ======
 
-Detect motion with a Raspberry Pi and play an audio track(s)
+Detect motion with a Raspberry Pi and call an API
